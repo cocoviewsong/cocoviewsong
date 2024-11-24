@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm cocoviewsong</h1>
 <h3 align="center">A student from China</h3>
 
-<h1 align="left">About Me</h1>
+<h1 align="left"><a href='https://cocoviewsong.github.io/'>About Me</a></h1>
 <p align="left">I love philosophy and gaming, and I believe that history is a narrative written by art.</p>
 <p align="left">I enjoy hands-on projects to bring my ideas to life.</p>
 
